@@ -54,3 +54,5 @@ key 여부에 **recomposition counts, skipped counts** 차이 확인<br>
 
 
 https://developer.android.com/develop/ui/compose/tooling/debug?hl=ko
+
+에니메이션추가
